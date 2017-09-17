@@ -1,9 +1,15 @@
 body {
-	font-family: monospace;
-	width: 685px;
-	margin: auto;
+    font-family: monospace;
+    font-size: larger;
+    width: 685px;
+    margin: auto;
 }
 
-h1, h3 {
+h1, h3, p {
 	text-align: center;
+}
+
+ul {
+	margin: auto;
+    width: 500px;
 }
