@@ -1,7 +1,7 @@
 body {
     font-family: monospace;
     font-size: larger;
-    width: 685px;
+    width: 50%;
     margin: auto;
 }
 
@@ -11,5 +11,4 @@ h1, h3, p {
 
 ul {
 	margin: auto;
-    width: 500px;
 }
